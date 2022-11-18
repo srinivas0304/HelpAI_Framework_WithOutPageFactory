@@ -1,0 +1,7 @@
+com\helpBot\testcases\SearchTest.class
+com\helpBot\testcases\LoginTest.class
+com\helpBot\testcases\ClickonHelpAnContactTest.class
+com\helpBot\testcases\SigninTest.class
+com\helpBot\testcases\TopicSelectTest.class
+com\helpBot\testcases\HelpBotWindowTest.class
+com\helpBot\testcases\TitleVerificationTest.class
